@@ -46,3 +46,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Local per-plan branch workspaces
+/.plans/*
+!/.plans/.gitkeep
+!/.plans/README.md
