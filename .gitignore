@@ -46,3 +46,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Planning workspace
+/plans/*
+!/plans/.gitignore
+!/plans/branching-plan.md
