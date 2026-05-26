@@ -74,8 +74,6 @@ For full documentation, configuration options, troubleshooting, and more, visit 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
-See [plans/AGENT-ERA-ROADMAP.md](plans/AGENT-ERA-ROADMAP.md) for the current v0.2 roadmap.
-
 
 
 
