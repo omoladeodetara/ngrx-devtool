@@ -28,6 +28,13 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Roadmap',
+      items: [
+        'roadmap/ai-agent',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Troubleshooting',
       items: [
         'troubleshooting/common-issues',
